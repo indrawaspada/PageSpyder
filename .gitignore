@@ -941,3 +941,7 @@
 /Lib/site-packages/colorama/winterm.py
 /Lib/site-packages/webencodings/x_user_defined.py
 /Lib/site-packages/py/xml.pyi
+/.idea/dataSources.xml
+/.idea/dataSources/e5db5d59-f69c-4b07-ac00-78e5f54ba6e0.xml
+/.idea/sqldialects.xml
+/words.db
